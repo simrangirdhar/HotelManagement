@@ -1,0 +1,23 @@
+[
+  {
+    "id": "77adc214-0c39-47e9-afee-6a13d8a24c28",
+    "hotelId": 1,
+    "checkIn": "2025-02-10",
+    "checkOut": "2025-02-14",
+    "rooms": 2
+  },
+  {
+    "id": "cbdff73a-f6ee-4c60-9b78-b8bb7f50197e",
+    "hotelId": 1,
+    "checkIn": "2025-02-10",
+    "checkOut": "2025-02-14",
+    "rooms": 2
+  },
+  {
+    "id": "12e4baf8-9eea-40a1-8b16-b2f4d7979f09",
+    "hotelId": 1,
+    "checkIn": "2025-02-10",
+    "checkOut": "2025-02-14",
+    "rooms": 1
+  }
+]

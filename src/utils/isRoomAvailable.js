@@ -53,7 +53,6 @@ const isRoomAvailable = async (hotelId, checkIn, checkOut, requestedRooms) => {
 
         return true; // If all days have enough rooms, return true
     } catch (error) {
-        console.error("Error checking room availability:", error.message);
         throw error;
     }
 };
